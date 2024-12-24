@@ -6,7 +6,7 @@ The scripts cover a variety of bioinformatics tasks, including but not limited t
  # Email:
  
  aftab07alig@gmail.com
-# ***********************************************
+# ***************************************************************
 
 # TCGA Data
 
