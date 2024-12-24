@@ -1,6 +1,6 @@
 # Description
 
-This repository contains a collection of bioinformatics scripts primarily used in my ongoing research. Most of these scripts are integral to my current work and have already been submitted to a journal for publication. Once the work is published, I will make the full set of scripts publicly available for the broader research community.
+This repository contains a collection of bioinformatics scripts primarily used in my ongoing research (status = Private). Most of these scripts are integral to my current work and have already been submitted to a journal for publication. Once the work is published, I will make the full set of scripts publicly available for the broader research community.
 The scripts cover a variety of bioinformatics tasks, including but not limited to data analysis, statistical methods, omics data processing, pathway analysis, and network construction. These tools are designed to aid in genomic, transcriptomic, and proteomic data analysis.
 
 **Note:** Please check back after the publication for full access to the repository. If you need any of the scripts urgently before the publication, please feel free to contact me directly, and I will personally send the requested scripts to you.
